@@ -1,18 +1,18 @@
-- name: Example 1
-  url: https://github.com
-  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+- name: This website!
+  url: https://github.com/ctrlshiftesc-org/staticapp
+  description: Personal portfolio website, hosted in Azure
   status: in progress
   tags:
-    - JavaScript
+    - Static Web App
     - Gatsby
   icon: github
 
-- name: Example 2
+- name: Azure Automation Video
   url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  description: Video Walkthrough of Azure Automation with full setup and Hybrid instructions, Power Automate and PowerApps integrations
   status: live
   tags:
-    - JavaScript
-    - HTML
+    - Azure Automation
+    - Powershell
   icon: website
   image: images/project.jpg
