@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
-      description: "Personal page of John Doe",
+      description: "Personal page of Lance Hughes",
       locale: "en",
-      title: "John Doe",
+      title: "Lance Hughes",
     },
     plugins: [
       {
