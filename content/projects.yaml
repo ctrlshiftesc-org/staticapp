@@ -1,6 +1,6 @@
 - name: This website!
   url: https://github.com/ctrlshiftesc-org/staticapp
-  description: Personal portfolio website, hosted in Azure
+  description: Personal portfolio website, hosted in Azure as a static web app
   status: in progress
   tags:
     - Static Web App
@@ -8,11 +8,11 @@
   icon: github
 
 - name: Azure Automation Video
-  url: https://github.com
+  url: https://www.youtube.com/watch?v=eeBeQBsuPoA&t=23s
   description: Video Walkthrough of Azure Automation with full setup and Hybrid instructions, Power Automate and PowerApps integrations
   status: live
   tags:
     - Azure Automation
     - Powershell
   icon: website
-  image: images/project.jpg
+  image: images/automation.jpg
