@@ -19,7 +19,7 @@
   tools:
     - Azure
     - VSCode
-    - Gatsby
+    - Power Automate
   budget:
     currency: $
     min: 5
