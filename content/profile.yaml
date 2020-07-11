@@ -19,7 +19,7 @@
   tools:
     - Azure
     - VSCode
-    - Power Automate
+    - Power Automate 
   budget:
     currency: $
     min: 5
