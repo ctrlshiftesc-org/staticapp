@@ -21,6 +21,8 @@ jobs:
         node-version: "12.x"
     - run: npm install
     - run: npm install -g gatsby-cli
+    - run: sudo apt-get install curl
+    - run: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
     # This triggers `gatsby build` script in "package.json"
     - run: npm run build
     - name: Build And Deploy
