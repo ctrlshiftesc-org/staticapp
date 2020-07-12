@@ -7,9 +7,9 @@
   location: Shelby, NC
   relocation: false
   company: HEPACO, LLC
-  for_hire: true
+  for_hire: false
   focus: Automation
-  focus_url: https://gatsbyjs.org
+  focus_url: https://azure.microsoft.com/en-us/services/automation/
   about: |
     Solutions Engineer proficient in leveraging technology and critical thinking skills to implement effective business solutions with a cloud-first mentality.
   skills:
