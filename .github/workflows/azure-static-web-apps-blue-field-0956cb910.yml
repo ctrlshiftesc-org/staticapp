@@ -20,7 +20,7 @@ jobs:
       with:
         node-version: "12.x"
     - run: npm install
-    - run: gatsby install
+    - run: npm install -g gatsby-cli
     # This triggers `gatsby build` script in "package.json"
     - run: npm run build
     - name: Build And Deploy
