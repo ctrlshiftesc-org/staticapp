@@ -24,7 +24,7 @@ jobs:
     - run: sudo apt-get install curl
     - run: curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
     # This triggers `gatsby build` script in "package.json"
-    - run: npm run build
+    - run: gatsby build
     - name: Build And Deploy
       id: builddeploy
       uses: Azure/static-web-apps-deploy@v0.0.1-preview
