@@ -7,11 +7,11 @@
   location: Shelby, NC
   relocation: false
   company: HEPACO, LLC
-  for_hire: false
+  for_hire: true
   focus: Automation
   focus_url: https://gatsbyjs.org
   about: |
-    Systems Engineer and Developer with a passion for innovation and process improvement. 
+    Solutions Engineer proficient in leveraging technology and critical thinking skills to implement effective business solutions with a cloud-first mentality.
   skills:
     - Powershell
     - Azure Automation
