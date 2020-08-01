@@ -1,7 +1,7 @@
 - name: This website!
   url: https://github.com/ctrlshiftesc-org/staticapp
   description: Personal portfolio website, hosted in Azure as a static web app
-  status: in progress
+  status: live
   tags:
     - Static Web App
     - Gatsby
